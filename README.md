@@ -1,2 +1,3 @@
-# presentacion-2025-03-inteligencia-artificial
-Presentación Introducción a la Inteligencia Artificial, marzo 2025.
+# Introducción a la Inteligencia Artificial
+
+Esta es una presentación hecho con Marp en marzo de 2025.
