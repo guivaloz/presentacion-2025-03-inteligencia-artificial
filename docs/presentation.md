@@ -79,7 +79,7 @@ Un LLM es una herramienta poderosa que puede generar texto, responder preguntas 
 
 ---
 
-# Usos de la IA en el presente
+# Usos de la IA en el presente (marzo 2025)
 
 - **Reconocimiento de voz**: Siri, Alexa, Google Assistant.
 - **Reconocimiento de imágenes**: Google Photos, Facebook.
@@ -139,11 +139,11 @@ La inteligencia artificial general (AGI) es un tipo de inteligencia artificial q
 
 ---
 
-# Reflexiones
+# Reflexiones finales
 
-- ¿Cómo va a cambiar el mundo en los próximos 5, 25 o 50 años?
 - ¿Crees que puede ocurrir una apocalipsis como en la película Terminator?
 - ¿O en que habrá una edad dorada de la humanidad, con humanos y máquinas trabajando juntos?
+- ¿Cómo crees que va a ser el mundo en 25 años?
 
 ---
 
